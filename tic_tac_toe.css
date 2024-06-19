@@ -1,0 +1,59 @@
+body{
+    background-image: linear-gradient(to bottom right ,#03AED2,#68D2E8,#FDDE55,#FEEFAD);
+    background-size:100%;
+    margin-top: -20px;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    /* color: #03AED2;
+    background: linear-gradient(to right,#03AED2,#68D2E8,#FDDE55,#FEEFAD);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; */
+}
+p{
+    margin-left: 370px;
+}
+
+.main{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border-radius: 5px;
+    outline:thick ridge black;
+    outline-offset: 5px;
+    box-sizing: border-box;
+}
+input
+{
+    background-image: linear-gradient(to bottom right ,#03AED2,#68D2E8,#FDDE55,#FEEFAD);
+    color: black;
+    font-size: 40px;
+}
+.btn
+{
+    height: 40px;
+    width: 70px;
+    margin-left: 310px;
+    margin-top: 25px;
+    font-size: 18px;
+    background-image: linear-gradient(to bottom right ,#03AED2,#68D2E8,#FDDE55,#FEEFAD);
+    border: 2px solid black;
+    border-radius: 5px;
+    outline:1px solid black;
+    outline-offset: 2px;
+}
+#h1{
+    margin-top: -45px;
+}
+/* .div1{
+    display: flex;
+}
+.div1 h2{
+    margin-left: 20px;
+    margin-top: 30px;
+} */
